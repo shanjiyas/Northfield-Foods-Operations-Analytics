@@ -235,6 +235,26 @@ These scenarios were intentionally simulated to test whether the analytical mode
 
 The Power BI report contains four interactive pages designed around different operational management questions.
 
+### Dashboard Preview
+
+#### Executive Overview
+
+![Northfield Foods Executive Overview](images/01_Executive_Overview.png)
+
+#### Demand & Production
+
+![Northfield Foods Demand and Production](images/02_Demand_and_Production.png)
+
+#### Materials & Capacity
+
+![Northfield Foods Materials and Capacity](images/03_Materials_and_Capacity.png)
+
+#### Exceptions & Actions
+
+![Northfield Foods Exceptions and Actions](images/04_Exceptions_and_Actions.png)
+
+---
+
 ### 1. Executive Overview
 
 Provides a high-level view of operational performance across demand, production, inventory, materials and capacity.
