@@ -1,0 +1,28 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# Microsoft Office temporary files
+~$*.xlsx
+~$*.xlsm
+~$*.docx
+~$*.pptx
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.old
+
+# VS Code local settings
+.vscode/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Log files
+*.log
