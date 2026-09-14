@@ -461,9 +461,7 @@ The project therefore focuses primarily on the analytical workflow of an Operati
 
 ## Repository Structure
 
-## Repository Structure
-
-
+```text
 Northfield-Foods-Operations-Analytics/
 │
 ├── README.md
@@ -488,11 +486,9 @@ Northfield-Foods-Operations-Analytics/
     ├── 02_Demand_and_Production.png
     ├── 03_Materials_and_Capacity.png
     └── 04_Exceptions_and_Actions.png
-
+```
 
 The repository is organised so that the analytical model, documentation and dashboard outputs can be reviewed independently.
-
-The repository is organised so that the data, analytical model, documentation and dashboard outputs can be reviewed independently.
 
 ## Author
 
